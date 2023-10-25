@@ -1,0 +1,2 @@
+from setuptools import setup
+setup(name = 'Demo',version = '0.1', description = 'A simple demonstration package', url= 'https://github.com/rachelmdaniel/M09-Challenge/tree/main', author = 'Rachel Daniel', author_email = 'rmd9ev@virginia.edu', license = "MIT", packages = ['my_package'])
